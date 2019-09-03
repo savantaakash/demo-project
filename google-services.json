@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "411024219099",
+    "firebase_url": "https://restaurantapp-923a9.firebaseio.com",
+    "project_id": "restaurantapp-923a9",
+    "storage_bucket": "restaurantapp-923a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411024219099:android:c3a99afdc3e4a778",
+        "android_client_info": {
+          "package_name": "com.example.reaturantapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411024219099-srccq01bv6g6la5tiodttqem7d6bfj9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reaturantapp",
+            "certificate_hash": "ca19bd4232296bd72dda39325a14af8fc56502b5"
+          }
+        },
+        {
+          "client_id": "411024219099-7s1jhi0ln5ef6t0ssika3joopo91ekcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4DvG52LKrhN4fcLp7HVBW4Jl2J-41Lx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411024219099-7s1jhi0ln5ef6t0ssika3joopo91ekcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
